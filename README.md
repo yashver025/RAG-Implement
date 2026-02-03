@@ -3,6 +3,9 @@
 ChatDoc is a **Retrieval-Augmented Generation (RAG)** application built with **Streamlit, LangChain, Hugging Face, and FAISS**.
 It allows users to upload a PDF document and ask natural-language questions, with answers generated **only from the document content**.
 
+<p align="center">
+  <img src="Screenshot (178).png" width="700"/>
+</p>
 ---
 
 ## 🚀 Features
